@@ -292,6 +292,6 @@ The next engineering step is to add source-specific adapters only where they can
 
 **Hamzah**  
 MSc Digital Forensics and Information Security  
-National Forensic Sciences University, Bhopal
+National Forensic Sciences University, Delhi
 
 Research interests: social engineering, digital forensics, OSINT, cybercrime reconstruction, electronic evidence and human-centric cybersecurity.
